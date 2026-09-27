@@ -9,7 +9,7 @@ Live: https://ziontechgroup.com/smart-building-optimizer/
 - Occupancy-driven HVAC and lighting schedules
 - Energy anomaly detection and savings reports
 
-## Part of the Zion App Network — Batch 54: AI Real Estate & PropTech
+## Part of the Zion App Network — Batch 61: AI Real Estate & PropTech
 - [Property Valuation AI](https://github.com/Zion-support/property-valuation-ai)
 - [Tenant Screening Copilot](https://github.com/Zion-support/tenant-screening-copilot)
 - [Lease Abstraction AI](https://github.com/Zion-support/lease-abstraction-ai)
